@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Крестики_Нолики\task\task\bin\Debug\task.exe.config
+C:\Users\User\Desktop\Крестики_Нолики\task\task\bin\Debug\task.exe
+C:\Users\User\Desktop\Крестики_Нолики\task\task\bin\Debug\task.pdb
+C:\Users\User\Desktop\Крестики_Нолики\task\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Крестики_Нолики\task\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Крестики_Нолики\task\task\obj\Debug\task.exe
+C:\Users\User\Desktop\Крестики_Нолики\task\task\obj\Debug\task.pdb
